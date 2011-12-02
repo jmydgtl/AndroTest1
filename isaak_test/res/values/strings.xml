@@ -7,5 +7,5 @@
 	<string name="celsius">to Celsius</string>
 	<string name="fahrenheit">to Fahrenheit</string>
 	<string name="calc">Calculate</string>
-	<string name="test">testString</string>
+	<string name="ButtonName">This is submit</string>
 </resources>
